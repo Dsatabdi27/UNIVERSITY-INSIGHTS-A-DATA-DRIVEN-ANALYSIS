@@ -144,4 +144,8 @@ You can run these SQL queries on your own university database to extract insight
 2.	Import the provided SQL data into your database management system.
 3.	Execute the SQL queries using your preferred SQL client or tool.
 
-cc
+##Contributors
+•	SATABDI DEY
+•	dey.satabdi27@gmail.com
+•	https://github.com/Dsatabdi27
+
