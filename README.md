@@ -146,6 +146,8 @@ You can run these SQL queries on your own university database to extract insight
 
 ##Contributors
 •	SATABDI DEY
+<br>
 •	dey.satabdi27@gmail.com
+<br>
 •	https://github.com/Dsatabdi27
 
